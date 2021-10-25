@@ -1,3 +1,8 @@
+# 🔥 THIS REPOSITORY HAS MOVED 🔥
+
+Now exists as package `nuxt-app` in https://github.com/libris/lxlviewer/
+
+
 # id.kb.se
 
 Server-side rendered Vue.js application (using [NuxtJS](https://nuxtjs.org/)).
